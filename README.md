@@ -6,11 +6,10 @@
 
 
 <h4>THE</h4>
- <h6> <p>  distant past when there was no paper or language
-or the written word, and hence no books or</h6>
-
+ <h6> distant past when there was no paper or language
+or the written word, and hence no books or
 <img width="370" height="495" align="right" src="https://as1.ftcdn.net/v2/jpg/00/95/41/12/1000_F_95411298_zEUcXlqtowRmpib1OO0rKgbpE1ulZRSO.jpg">
-<h6>written documents, is called prehistory or as we often say,
+written documents, is called prehistory or as we often say,
 prehistoric times. How people <br>lived in those times was
 difficult to surmise until scholars began to discover the
 places where prehistoric people lived. Excavation at these
