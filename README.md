@@ -1,7 +1,7 @@
  history-chapter
 
 
-<img  src="https://0.academia-photos.com/attachment_thumbnails/47599131/mini_magick20190206-1046-17cif9p.png?1549467515"
+<img  src="https://0.academia-photos.com/attachment_thumbnails/47599131/mini_magick20190206-1046-17cif9p.png?1549467515">
 
 <empty>
 
