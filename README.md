@@ -1,4 +1,3 @@
- history-chapter
 
 
 <img  src="https://0.academia-photos.com/attachment_thumbnails/47599131/mini_magick20190206-1046-17cif9p.png?1549467515">
@@ -7,8 +6,8 @@
 
 
 <h4>THE</h4>
- <h6><p>  distant past when there was no paper or language
-or the written word, and hence no books or <br></h6>
+ <h6> <p>  distant past when there was no paper or language
+or the written word, and hence no books or</h6>
 
 <img width="370" height="495" align="right" src="https://as1.ftcdn.net/v2/jpg/00/95/41/12/1000_F_95411298_zEUcXlqtowRmpib1OO0rKgbpE1ulZRSO.jpg">
 <h6>written documents, is called prehistory or as we often say,
@@ -25,7 +24,7 @@ the basic needs of food, water, clothing and shelter were
 fulfilled people felt the need to express themselves. Painting
 and drawing were the oldest art forms practised by human 
 beings  to express themselves, using the cave walls as their
-canvas.</p> </h6>
+canvas.</h6>
 
 <h6><p>Why did prehistoric people draw these pictures? They
 may have drawn and the painted to make their shelters more
@@ -82,7 +81,7 @@ Karnataka and Andhra Pradesh provided suitable canvases
 to the Neolithic man for his paintings. There<br> are several such
 sites but more famous among them are Kupgallu, Piklihal
 and Tekkalkota. Three<br> types of paintings have been reported
-from here—paintings in white,<br> paintings in red ochre over
+from here paintings in white,<br> paintings in red ochre over
 a white background and paintings in red ochre. These</h6>
 <br>
 <img  align="" height="300" width="500" src="https://pwonlyias.com/wp-content/uploads/2023/12/8-3.webp">
@@ -120,29 +119,17 @@ to study<br> these paintings.</h6>
 <br>
 <br>
 <h6>The themes of paintings found here are of great variety,
-
 ranging from mundane events of daily life in those times to
-
-sacred and royal images. These include hunting, dancing,
-
+sacred and royal images. These include hunting, dancing
 music, horse and elephant riders, animal fighting, honey
-
 collection, decoration of bodies, and other household scenes.
-
 The rock art of Bhimbetka has been classified into
-
 various groups on the bases of style, technique and
-
 superimposition. The drawings and paintings can be
-
 catagorised into seven historical periods. Period I, Upper
-
 Palaeolithic; Period II, Mesolithic; and Period III,
-
 Chalcolithic. After Period III there are four
-
 successive periods. But we will confine
-
 ourselves here only to the first three phases.
 </h6>
 <img height="250" align="right" width="300" src="https://swarajya.gumlet.io/swarajya/2018-08/d7bece04-afb6-425e-a3a4-aea2bae32037/4fc3c7e3_45f9_4a8e_b97b_d6693e410c25.jpg?w=640&q=75&auto=format,compress&format=webp">
@@ -250,7 +237,7 @@ to paint on a rock in such an uncomfortable position. The
 paintings made at these places were perhaps for people to
 be able to notice them from a distance
 chemical reaction of the oxide present on the
-surface of the rocks </p> </h6>
+surface of the rocks </h6>
 
 
 <h6>The paintings, though from the remote past, do not lack
@@ -282,7 +269,7 @@ animals difficult to find or kill.
 <br>
 <hr>
 <center><h6> <mark> Hunting Scene </mark> </h6></center>
-<center><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwAToQJ-J1VSALRcSiLmcntGTDHpUMLxNzA&s"></center>
+<center><img width="500" height="450" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAwAToQJ-J1VSALRcSiLmcntGTDHpUMLxNzA&s"></center>
 <center><h6> Hunting scenes predominate in Mesolithic paintings. This is one such scene
 where a group of people are shown hunting a bison.  Some injured men are
 depicted lying scattered on the ground. These paintings show mastery in the
